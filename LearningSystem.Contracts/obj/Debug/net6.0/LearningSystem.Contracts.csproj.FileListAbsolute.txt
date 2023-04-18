@@ -1,0 +1,12 @@
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.Contracts\bin\Debug\net6.0\LearningSystem.Contracts.deps.json
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.Contracts\bin\Debug\net6.0\LearningSystem.Contracts.dll
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.Contracts\bin\Debug\net6.0\ref\LearningSystem.Contracts.dll
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.Contracts\bin\Debug\net6.0\LearningSystem.Contracts.pdb
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.Contracts\obj\Debug\net6.0\LearningSystem.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.Contracts\obj\Debug\net6.0\LearningSystem.Contracts.AssemblyInfoInputs.cache
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.Contracts\obj\Debug\net6.0\LearningSystem.Contracts.AssemblyInfo.cs
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.Contracts\obj\Debug\net6.0\LearningSystem.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.Contracts\obj\Debug\net6.0\LearningSystem.Contracts.dll
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.Contracts\obj\Debug\net6.0\ref\LearningSystem.Contracts.dll
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.Contracts\obj\Debug\net6.0\LearningSystem.Contracts.pdb
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.Contracts\obj\Debug\net6.0\LearningSystem.Contracts.csproj.AssemblyReference.cache

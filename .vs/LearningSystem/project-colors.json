@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9cd80ed7-1f55-4754-aec7-3ae075433304": {
+      "ProjectGuid": "9cd80ed7-1f55-4754-aec7-3ae075433304",
+      "DisplayName": "LearningSystem",
+      "ColorIndex": 0
+    },
+    "a65f43c3-ac6c-4089-8793-58094eb45f87": {
+      "ProjectGuid": "a65f43c3-ac6c-4089-8793-58094eb45f87",
+      "DisplayName": "LearningSystem.Contracts",
+      "ColorIndex": 1
+    },
+    "91697f19-e4d0-488c-859f-a285cf016887": {
+      "ProjectGuid": "91697f19-e4d0-488c-859f-a285cf016887",
+      "DisplayName": "LearningSystem.DAL",
+      "ColorIndex": 2
+    },
+    "d0ef97c0-c118-4ed8-ad66-543c57b1ce81": {
+      "ProjectGuid": "d0ef97c0-c118-4ed8-ad66-543c57b1ce81",
+      "DisplayName": "LearningSystem.WEB",
+      "ColorIndex": 3
+    },
+    "e95b30d5-ad05-45be-b68f-b0ca458a6442": {
+      "ProjectGuid": "e95b30d5-ad05-45be-b68f-b0ca458a6442",
+      "DisplayName": "LearningSystem.DAL",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "4dea9569-93cd-4f59-a600-1f4edef8f1d2": {
+      "ProjectGuid": "4dea9569-93cd-4f59-a600-1f4edef8f1d2",
+      "DisplayName": "LearningSystem.BLL",
+      "ColorIndex": 5
+    },
+    "9c59bac0-b7fd-41ee-ac57-3556129ed837": {
+      "ProjectGuid": "9c59bac0-b7fd-41ee-ac57-3556129ed837",
+      "DisplayName": "LearningSystem.BLL",
+      "ColorIndex": 6
+    },
+    "919fd655-f067-4ba2-b932-d926e85dd6b4": {
+      "ProjectGuid": "919fd655-f067-4ba2-b932-d926e85dd6b4",
+      "DisplayName": "Документы скриптов",
+      "ColorIndex": 7
+    },
+    "23e092d0-6314-443f-b7d8-7a4aea60ee01": {
+      "ProjectGuid": "23e092d0-6314-443f-b7d8-7a4aea60ee01",
+      "DisplayName": "LearningSystem.BLL.Tests",
+      "ColorIndex": 8
+    },
+    "83e914d7-f4a6-4e72-aa96-eaa0e0e09d3b": {
+      "ProjectGuid": "83e914d7-f4a6-4e72-aa96-eaa0e0e09d3b",
+      "DisplayName": "LearningSystem.Controller.Tests",
+      "ColorIndex": 9
+    },
+    "b50900be-8f84-438b-9bc2-3fe4e1825cb7": {
+      "ProjectGuid": "b50900be-8f84-438b-9bc2-3fe4e1825cb7",
+      "DisplayName": "LearningSystem.IntegrationTests",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

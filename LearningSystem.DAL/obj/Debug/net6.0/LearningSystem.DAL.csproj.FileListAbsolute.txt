@@ -1,0 +1,17 @@
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.DAL\bin\Debug\net6.0\LearningSystem.DAL.deps.json
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.DAL\bin\Debug\net6.0\LearningSystem.DAL.runtimeconfig.json
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.DAL\bin\Debug\net6.0\LearningSystem.DAL.dll
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.DAL\bin\Debug\net6.0\ref\LearningSystem.DAL.dll
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.DAL\bin\Debug\net6.0\LearningSystem.DAL.pdb
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.DAL\obj\Debug\net6.0\LearningSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.DAL\obj\Debug\net6.0\LearningSystem.DAL.AssemblyInfoInputs.cache
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.DAL\obj\Debug\net6.0\LearningSystem.DAL.AssemblyInfo.cs
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.DAL\obj\Debug\net6.0\LearningSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.DAL\obj\Debug\net6.0\LearningSystem.DAL.dll
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.DAL\obj\Debug\net6.0\ref\LearningSystem.DAL.dll
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.DAL\obj\Debug\net6.0\LearningSystem.DAL.pdb
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.DAL\obj\Debug\net6.0\LearningSystem.DAL.genruntimeconfig.cache
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.DAL\bin\Debug\net6.0\LearningSystem.Contracts.dll
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.DAL\bin\Debug\net6.0\LearningSystem.Contracts.pdb
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.DAL\obj\Debug\net6.0\LearningSystem.DAL.csproj.AssemblyReference.cache
+C:\Users\roman\source\repos\csharp-20221129\Roman Bychkov\LearningSystem\LearningSystem.DAL\obj\Debug\net6.0\LearningSystem.DAL.csproj.CopyComplete
